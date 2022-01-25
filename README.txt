@@ -17,3 +17,5 @@ Ingresar en la misma terminal:
 $ java TCPServer
 Abrir una nueva terminal, $cd al mismo directorio, luego ingresar:
 $ java TCPClient
+
+(Codigo basado del repositorio recomendado por el profesor: https://github.com/thomasWeise/distributedComputingExamples/tree/master/sockets/java)
