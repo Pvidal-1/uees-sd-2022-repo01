@@ -10,7 +10,7 @@ $ cd uees-sd-2022-repo01
 #Para compilar los archivos java
 En el mismo directorio ingresar:
 $ javac TCPServer.java
-$ javacTCPClient.java
+$ javac TCPClient.java
 
 #Para realizar el ejercicio
 Ingresar en la misma terminal:
